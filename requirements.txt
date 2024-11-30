@@ -1,0 +1,27 @@
+# Core
+django
+python-dotenv
+str2bool
+
+# Utils
+django-debug-toolbar
+Pillow
+
+# Services
+celery
+redis
+hiredis
+
+# Tooling
+django-celery-results
+djangorestframework
+django-api-generator
+drf-spectacular
+
+# Deployment
+whitenoise
+gunicorn
+
+# DB Layer
+# psycopg2-binary==3.1.12
+# mysqlclient==2.2.0
